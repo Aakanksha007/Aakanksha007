@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Malhotra</h1>
 <h3 align="left">Welcome to my GitHub repository! I am a data analyst with a passion for machine learning and data science.</h3>
+<p>I am a data analyst with a strong background in statistical analysis, data visualization, and machine learning. My passion lies in uncovering insights from data and leveraging machine learning algorithms to solve real-world problems.</p>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
