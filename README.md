@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Malhotra</h1>
-<h3 align="center">Welcome to my GitHub repository! I am a data analyst with a passion for machine learning and data science. T</h3>
+<h3 align="left">Welcome to my GitHub repository! I am a data analyst with a passion for machine learning and data science.</h3>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
