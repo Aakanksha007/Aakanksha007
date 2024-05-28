@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Malhotra</h1>
-<h3 align="center">A passionate data enthusiast , experienced Data Analyst</h3>
+<h3 align="left">A passionate data enthusiast , experienced Data Analyst</h3>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
