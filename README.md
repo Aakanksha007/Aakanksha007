@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **projects in the Data World**
 
 - 📫 How to reach me **aakankshamalhotra0409@gmail.com and www.linkedin.com/in/aakanksha-m-njit**
-<p> Dynamic and results-driven Data Analyst with over four years of experience in leveraging data-driven insights to optimize business processes and drive strategic decision-making. Proficient in Python, C++, Java, and SQL, with extensive expertise in machine learning algorithms, big data platforms, and data visualization tools. Adept at managing data integration, designing efficient data pipelines, and implementing robust ETL processes. Demonstrated ability to reduce data processing time and enhance accuracy, leading to significant cost savings and increased revenue generation.</p>
+<p> Dynamic and results-driven  with over four years of experience in leveraging data-driven insights to optimize business processes and drive strategic decision-making. Proficient in Python, C++, Java, and SQL, with extensive expertise in machine learning algorithms, big data platforms, and data visualization tools. Adept at managing data integration, designing efficient data pipelines, and implementing robust ETL processes. Demonstrated ability to reduce data processing time and enhance accuracy, leading to significant cost savings and increased revenue generation.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aakanksha-m-njit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakanksha-m-njit" height="30" width="40" /></a>
